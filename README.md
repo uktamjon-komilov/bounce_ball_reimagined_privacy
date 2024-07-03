@@ -1,12 +1,12 @@
-# [Your Game's Name] Privacy Policy
+# "Bounce Ball: Reimagined" Privacy Policy
 
-This repository contains the Privacy Policy for [Your Game's Name].
+This repository contains the Privacy Policy for "Bounce Ball: Reimagined".
 
 ## Privacy Policy
 
 ### Introduction
 
-Welcome to [Your Game's Name] ("we," "our," or "us"). We are committed to protecting your privacy and ensuring you have a safe experience while using our game. This Privacy Policy outlines how we handle your data, especially regarding the use of banner ads, interstitial ads, and rewarded ads.
+Welcome to "Bounce Ball: Reimagined" ("we," "our," or "us"). We are committed to protecting your privacy and ensuring you have a safe experience while using our game. This Privacy Policy outlines how we handle your data, especially regarding the use of banner ads, interstitial ads, and rewarded ads.
 
 ### Information Collection and Use
 
@@ -34,8 +34,8 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 ### Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [your contact email address].
+If you have any questions or concerns about this Privacy Policy, please contact us at softoptions.mobile@gmail.com.
 
 ---
 
-This privacy policy is hosted on GitHub and linked in the settings of [Your Game's Name] on the Play Market.
+This privacy policy is hosted on GitHub and linked in the settings of "Bounce Ball: Reimagined" on the Play Market.
